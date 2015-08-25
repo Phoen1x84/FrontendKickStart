@@ -1,5 +1,5 @@
 {
-  "name": "FrontendGruntSetup",
+  "name": "FrontendKickstart",
   "version": "1.0.0",
   "description": "This is a base template for Frontend developers",
   "main": "gruntfile.js",
